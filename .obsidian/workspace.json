@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e4351343522c8d8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e055b3ab427f0c8b",
+            "id": "63ab9acf9b0f0650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bac19413783bc666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desserts - scones, breads/Naner Bread.md",
+                "file": "Savory dishes/Euro-American/Kale white bean soup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desserts - scones, breads/Naner Bread.md",
+                "file": "Savory dishes/Euro-American/Kale white bean soup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desserts - scones, breads/Naner Bread.md",
+                "file": "Savory dishes/Euro-American/Kale white bean soup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desserts - scones, breads/Naner Bread.md"
+                "file": "Savory dishes/Euro-American/Kale white bean soup.md"
               }
             }
           }
@@ -167,22 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bac19413783bc666",
+  "active": "63ab9acf9b0f0650",
   "lastOpenFiles": [
+    "Savory dishes/Euro-American/Fresh pasta.md",
+    "Savory dishes/Euro-American/Kale white bean soup.md",
+    "Savory dishes/Euro-American/Mushroom meatballs.md",
+    "Savory dishes/Euro-American/Potato leek soup.md",
+    "Savory dishes/Indian/Saag paneer.md",
+    "Savory dishes/Middle eastern/Hummus.md",
+    "Savory dishes/Middle eastern/Green tahini bowls.md",
+    "Savory dishes/Middle eastern/Harira.md",
+    "Savory dishes/Ethiopian/Shiro wat.md",
+    "Savory dishes/Ethiopian/Misir wat.md",
+    "Desserts - cookies, cakes, scones, breads,/Cakes/Cranberry upside down cake.md",
+    "Desserts - cookies, cakes, scones, breads,/Cakes/Confetti cake.md",
+    "Desserts - cookies, cakes, scones, breads,/Cakes/Almond poppy cake.md",
+    "Desserts - cookies, cakes, scones, breads,/Breads/Chocolate zucchini bread.md",
+    "Desserts - cookies, cakes, scones, breads,/Breads/Naner bread.md",
     "Index.md",
-    "Desserts - scones, breads/Desserts - scones, breads.md",
-    "Desserts - scones, breads/Naner Bread.md",
-    "Savory dishes/Savory dishes.md",
-    "Drinks/Drinks.md",
-    "Drinks",
-    "Savory foods.md",
-    "Desserts - cookies, cakes, etc/Desserts - cookies, cakes, etc.md",
-    "Savory breads/Savory breads.md",
-    "Desserts - scones, breads",
-    "Desserts - cookies, cakes, etc",
-    "Savory breads",
-    "Savory dishes",
-    "Untitled.md",
-    "create a link.md"
+    "~syncthing~Index.md.tmp",
+    "Desserts - cookies, cakes, scones, breads,/Sourdough pancake.md",
+    "Desserts - cookies, cakes, scones, breads,/~syncthing~Sourdough pancake.md.tmp",
+    "Savory breads/Sourdough bread loaf.md",
+    "Savory breads/Sourdough naan.md",
+    "Savory breads/~syncthing~Sourdough naan.md.tmp",
+    "Savory breads/Ciabatta.md",
+    "Savory breads/~syncthing~Ciabatta.md.tmp",
+    "Drinks/Water kefir.md",
+    "Savory dishes/East Asian/Japchae.md",
+    "Savory dishes/East Asian/Spring rolls.md",
+    "Savory dishes/Euro-American",
+    "Savory dishes/Middle eastern",
+    "Savory dishes/Indian",
+    "Savory dishes/East Asian/Sushi rice.md",
+    "Savory dishes/East Asian",
+    "Savory dishes/Ethiopian",
+    "Savory dishes/East Asian/Poke bowls.md",
+    "Savory breads/Sourdough.md",
+    "Desserts - scones, breads"
   ]
 }
