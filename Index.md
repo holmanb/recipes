@@ -1,5 +1,4 @@
-[[Desserts - scones, breads]]
-[[Desserts - cookies, cakes, etc]]
+[[Desserts - cookies, cakes, scones, breads]]
 [[Drinks]]
 [[Savory dishes]]
 [[Savory breads]]
