@@ -3,3 +3,5 @@ Per person
 - 1 c flour
 
 Knead, roll, cut
+
+Alternatively: Love and lemons
