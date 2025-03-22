@@ -18,7 +18,7 @@ First make shiro powder out of the chickpea flour by dry roasting in a skillet
 - 1 tsp cumin
 - 1 tsp cardomom
 - Garlic salt
-Set aside
+Set aside/empty pot and put powder in bowl to cook in the same pan
 
 In Dutch oven/medium pot heat EVOO and cook
 - 1 diced onion

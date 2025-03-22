@@ -28,7 +28,6 @@ tags: []
 	- [[Sourdough pancake]]
 [[Drinks]]
 - [[Water kefir]]
-[[Savory dishes]]
 [[Savory breads]]
 
  - [[Artisan bread]]

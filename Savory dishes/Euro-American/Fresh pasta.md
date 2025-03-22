@@ -1,7 +1,7 @@
-Per person
+lPer person
 - 1 egg
 - 1 c flour
 
 Knead, roll, cut
 
-Alternatively: Love and lemons
+Alternatively: double batch of https://www.loveandlemons.com/homemade-pasta-recipe/
