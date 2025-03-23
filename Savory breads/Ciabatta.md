@@ -6,7 +6,7 @@ tags: []
 
 https://www.youtube.com/watch?v=3uW5zJcwGKg
 
-Ingredients list
+#### Ingredients list
 
 - flour 500g
 - water 380ml
@@ -14,7 +14,7 @@ Ingredients list
 - sugar 1 heaping tsp
 - salt 2 heaping tsp
 
-
+#### Instructions
 1. Mix
 2. Oil 3 bowls
 3. Separate dough into bowls and cover
